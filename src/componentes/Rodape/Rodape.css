@@ -1,0 +1,19 @@
+.rodapeSite {
+    align-items: center;
+    background-color: #6278f7;
+    display: flex;
+    justify-content: space-around;
+    padding: 64px 0;
+    width: 100%;
+  }
+  
+.rodapeLogosRedesSociais {
+    display: flex;
+    gap: 64px;
+  }
+  
+.rodapeTexto {
+    color: white;
+    font-weight: bold;
+  }
+  
